@@ -17,6 +17,6 @@ Step 5: Use command below to install required dependencies- python -m pip instal
 
 Step 6: Run application by command; python app.py
 
-You will get url copy it and paste in browser.
+Copy and Paste the URL in browser.
 
 
